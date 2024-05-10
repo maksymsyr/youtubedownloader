@@ -30,7 +30,7 @@ To launch your very own YouTube Downloader, follow these mystical steps:
 
 3. **Summon the main application**:
     ```bash
-    python youtube_downloader.py
+    python youtubegui.py
     ```
 
 Behold, the graphical interface of the YouTube Downloader shall appear!
