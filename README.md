@@ -62,8 +62,6 @@ Let’s say you want to download videos about "Cute Kittens" 😺:
 - From the list, pick a video that makes your heart melt.
 - Click `Download`, and voilà, the video will appear in your designated folder!
 
-Sure, let's spice up the CLI (Command Line Interface) usage section a bit with some fun and examples! 😄
-
 ## CLI Usage Example 🎤
 If you prefer to work magic directly from your command line cauldron, our YouTube Downloader has a CLI potion as well! Here’s how to quickly conjure the first recommended video from a YouTube search:
 
