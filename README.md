@@ -62,6 +62,28 @@ Let’s say you want to download videos about "Cute Kittens" 😺:
 - From the list, pick a video that makes your heart melt.
 - Click `Download`, and voilà, the video will appear in your designated folder!
 
+Sure, let's spice up the CLI (Command Line Interface) usage section a bit with some fun and examples! 😄
+
+## CLI Usage Example 🎤
+If you prefer to work magic directly from your command line cauldron, our YouTube Downloader has a CLI potion as well! Here’s how to quickly conjure the first recommended video from a YouTube search:
+
+1. **Cast Your Search Spell**:
+   - Open your command line terminal.
+   - Type the following command, replacing `your search term` with your actual search term (like `Funny Cats`, `Epic Fails`, or whatever tickles your fancy):
+     ```bash
+     python youtube_downloader.py "your search term"
+     ```
+   - Hit `Enter` and let the magic unfold!
+
+2. **What Happens Next?**:
+   - The script will scurry through the depths of YouTube and grab the **first recommended video** related to your search term.
+   - It automatically downloads this video at the highest available quality, storing it in the predefined or last set download path.
+
+3. **Check Your Loot**:
+   - Head over to the specified directory to find your downloaded video, ready and waiting like a loyal dragon hoarding its gold!
+
+🚀 **Pro Tip:** This method is especially handy when you know exactly what you're looking for and want to get it downloaded post-haste, without the need to manually sift through search results!
+
 ## Troubleshooting
 If things seem a bit wonky:
 - Confirm all mystical components (dependencies) are properly installed.
