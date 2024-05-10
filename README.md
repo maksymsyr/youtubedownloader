@@ -69,7 +69,7 @@ If you prefer to work magic directly from your command line cauldron, our YouTub
    - Open your command line terminal.
    - Type the following command, replacing `your search term` with your actual search term (like `Funny Cats`, `Epic Fails`, or whatever tickles your fancy):
      ```bash
-     python youtube_downloader.py "your search term"
+     python youtube.py "your search term"
      ```
    - Hit `Enter` and let the magic unfold!
 
